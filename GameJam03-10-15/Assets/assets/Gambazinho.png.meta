@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 8f87ef0f58c0c408382f26cb6de510aa
+timeCreated: 1443978465
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Gambazinho_0
+    21300002: Gambazinho_1
+    21300004: Gambazinho_2
+    21300006: Gambazinho_3
+    21300008: Gambazinho_4
+    21300010: Gambazinho_5
+    21300012: Gambazinho_6
+    21300014: Gambazinho_7
+    21300016: Gambazinho_8
+    21300018: Gambazinho_9
+    21300020: Gambazinho_10
+    21300022: Gambazinho_11
+    21300024: Gambazinho_12
+    21300026: Gambazinho_13
+    21300028: Gambazinho_14
+    21300030: Gambazinho_15
+    21300032: Gambazinho_16
+    21300034: Gambazinho_17
+    21300036: Gambazinho_18
+    21300038: Gambazinho_19
+    21300040: Gambazinho_20
+    21300042: Gambazinho_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Gambazinho_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 63
+        width: 88
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gambazinho_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 64
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gambazinho_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 63
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gambazinho_3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 52
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gambazinho_4
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 51
+        width: 63
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gambazinho_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 43
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gambazinho_6
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 26
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gambazinho_7
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 26
+        width: 74
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gambazinho_8
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 29
+        width: 82
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gambazinho_9
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 40
+        width: 88
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gambazinho_10
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 46
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gambazinho_11
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 46
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gambazinho_12
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 43
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gambazinho_13
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 29
+        width: 86
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gambazinho_14
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 29
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gambazinho_15
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 26
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gambazinho_16
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 43
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gambazinho_17
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 51
+        width: 63
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gambazinho_18
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 52
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gambazinho_19
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 63
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gambazinho_20
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 64
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gambazinho_21
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 63
+        width: 88
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
