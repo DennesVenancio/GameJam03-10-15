@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: fbf753daa0c114de093db84a047d5af7
+timeCreated: 1443940942
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: animacao andando_0
+    21300002: animacao andando_1
+    21300004: animacao andando_2
+    21300006: animacao andando_3
+    21300008: animacao andando_4
+    21300010: animacao andando_5
+    21300012: animacao andando_6
+    21300014: animacao andando_7
+    21300016: animacao andando_8
+    21300018: animacao andando_9
+    21300020: animacao andando_10
+    21300022: animacao andando_11
+    21300024: animacao andando_12
+    21300026: animacao andando_13
+    21300028: animacao andando_14
+    21300030: animacao andando_15
+    21300032: animacao andando_16
+    21300034: animacao andando_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: animacao andando_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 4
+        width: 63
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animacao andando_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 58
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animacao andando_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 4
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animacao andando_3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 5
+        width: 58
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animacao andando_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 5
+        width: 58
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animacao andando_5
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 4
+        width: 58
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animacao andando_6
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 5
+        width: 63
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animacao andando_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animacao andando_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 4
+        width: 58
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animacao andando_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 4
+        width: 58
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animacao andando_10
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 5
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animacao andando_11
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 6
+        width: 63
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animacao andando_12
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 5
+        width: 58
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animacao andando_13
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 6
+        width: 58
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animacao andando_14
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 6
+        width: 58
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animacao andando_15
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 5
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animacao andando_16
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 5
+        width: 58
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animacao andando_17
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 5
+        width: 63
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
